@@ -22,27 +22,27 @@ Kokeilin myös käyttää Linuxia onnistuneesti kannettavalla tietokoneella sama
 
 A) Linux Azure-pilvessä
 
-![2021-03-31 (1)](C:\Users\slaur\OneDrive\Kuvat\Näyttökuvat\2021-03-31 (1).png)
+<img src="Azureympäristö.png">
 
-![2.3A Azure](C:\Users\slaur\OneDrive\Linux-kurssi\2.3A Azure.png)
+<img src="2.3A Azure.png">
 
 Azure RDP-yhteydellä.
 
-![2.3 Azure SSH](C:\Users\slaur\OneDrive\Linux-kurssi\2.3 Azure SSH.png)
+<img src="2.3 Azure SSH.png">
 
 Azure SSH-yhteydellä
 
 B) Linux USB-tikulle
 
-![2.3 Linux Usb-tikulta](C:\Users\slaur\OneDrive\Linux-kurssi\2.3 Linux Usb-tikulta.jpg)
+<img src="2.3 Linux Usb-tikulta.jpg">
 
 Linux suoraan USB-tikulta ilman asennusta
 
 C) Linuxin asentaminen Windowsin rinnalle
 
-![2.3 Linux Asennettuna](C:\Users\slaur\OneDrive\Linux-kurssi\2.3 Linux Asennettuna.png)
+<img src="2.3 Linux Asennettuna.png">
 
-![Tehtävä 2.3 Linux Mint rinnakkaisasennettuna](C:\Users\slaur\OneDrive\Linux-kurssi\Tehtävä 2.3 Linux Mint rinnakkaisasennettuna.png)
+<img src="Tehtävä 2.3 Linux Mint rinnakkaisasennettuna.png">
 
 Linux Mint rinnakkaisasennettuna pöytäkoneelle (dual boot)
 
