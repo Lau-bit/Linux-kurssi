@@ -8,7 +8,9 @@ Latasin netistä Linux Mint -levykuvan sekä Rufuksen. Kirjoitin levykuvan USB-t
 
  
 
-Käynnistin tietokoneen uudestaan ja valitsin käynnistyslaitteeksi USB-tikun. Tämän jälkeen Linux Mint -asennus näkyi ruudulla. Asensin käyttöjärjestelmän ruudulla näkyvien ohjeiden mukaisesti valittuani asennussijainniksi vapauttamani levytilan. Kirjoitin tämän tehtävän LibreOffice Writerillä asentamassani Linux Mint -käyttöjärjestelmässä.
+Käynnistin tietokoneen uudestaan ja valitsin käynnistyslaitteeksi USB-tikun. Tämän jälkeen Linux Mint -asennus näkyi ruudulla. Asensin käyttöjärjestelmän ruudulla näkyvien ohjeiden mukaisesti valittuani asennussijainniksi vapauttamani levytilan. Kirjoitin tämän tehtävän LibreOffice Writerillä asentamassani Linux Mint -käyttöjärjestelmässä. 
+
+Muutin tehtävän vielä markdown-muotoon tämän jälkeen toisella tietokoneella.
 
  
 
@@ -17,6 +19,8 @@ Käyttöjärjestelmäksi valitsin Linux Mintin sillä se on mielestäni monikäy
  
 
 Kokeilin myös käyttää Linuxia onnistuneesti kannettavalla tietokoneella samalla USB-tikulla.
+
+
 
 
 
