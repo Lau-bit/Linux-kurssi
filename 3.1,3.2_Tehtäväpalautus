@@ -1,6 +1,5 @@
 Tehtävä 3.1 Komentorivin käyttö
 
-c)
 
 1.
 a)  lauri@Seravasvu:/var/log$ cat | wc -l syslog
